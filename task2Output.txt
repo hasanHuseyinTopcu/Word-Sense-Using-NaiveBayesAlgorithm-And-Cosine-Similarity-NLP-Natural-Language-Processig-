@@ -1,0 +1,1 @@
+Cosine similarity value of between cat and dog : 0.4586643221060043

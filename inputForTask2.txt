@@ -1,0 +1,16 @@
+cat:
+The cat was playing in the garden.
+The owner feed her cat every morning.
+You can find cat food in the markets.
+The cat often eats in the morning.
+They were fighting like a cat and a dog.
+How much should I feed my cat?
+Her cat was always sleeping.
+
+dog:
+The family's cat and dog are playing in the garden.
+Encourage your dog to play in the garden.
+Dog food is not sold here.
+His dog does not eat meat.
+The dog was hit by a car.
+I never feed my dog raw meat.
